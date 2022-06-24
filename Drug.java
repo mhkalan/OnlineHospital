@@ -1,5 +1,3 @@
-package hospital;
-
 public class Drug {
     static int DrID = 1;
     protected int drId;
